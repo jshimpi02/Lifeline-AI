@@ -1,0 +1,17 @@
+{
+  "name": "browserbase-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@browserbasehq/stagehand": "^3.6.0",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "tsx": "^4.22.4"
+  }
+}

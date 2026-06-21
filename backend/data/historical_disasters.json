@@ -1,0 +1,38 @@
+[
+    {
+        "id": "california_atmospheric_river",
+        "title": "California Atmospheric River Floods",
+        "event_type": "flood",
+        "summary": "Severe flooding caused road closures, stranded vehicles, evacuation orders, and infrastructure damage across multiple regions.",
+        "insights": [
+          "Road access deteriorated rapidly",
+          "Stranded vehicle rescues increased",
+          "Shelter demand rose as floodwaters spread"
+        ],
+        "recommended_action": "Deploy rescue resources near major roads and prepare evacuation shelters."
+    },
+    {
+      "id": "downtown_power_outage_2025",
+      "title": "Downtown Power Outage 2025",
+      "event_type": "power_outage",
+      "summary": "A downtown power outage affected traffic lights, hospitals, elevators, and vulnerable residents requiring medical equipment.",
+      "insights": [
+        "Traffic congestion increased rapidly",
+        "Oxygen-dependent patients required backup support",
+        "Hospitals needed generator status checks"
+      ],
+      "recommended_action": "Notify utilities, check hospitals, and prioritize medically vulnerable residents."
+    },
+    {
+      "id": "nursing_home_evacuation_2024",
+      "title": "Nursing Home Flood Evacuation 2024",
+      "event_type": "medical_rescue",
+      "summary": "Flooding near a nursing home required evacuation of elderly residents with oxygen and mobility needs.",
+      "insights": [
+        "Evacuation took longer than expected",
+        "Medical transport demand increased",
+        "Road access became limited quickly"
+      ],
+      "recommended_action": "Dispatch medical evacuation support immediately and secure accessible transport routes."
+    }
+  ]
